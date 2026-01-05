@@ -1,3 +1,8 @@
+## Note (Fork information)
+This repository is a fork of a collaborative academic project.  
+My contribution to the project focused on quality assurance and functional testing.
+
+---
 # **Voyago**  
 
 ## Сервис для оптимального планирования пешего маршрута по достопримечательностям
